@@ -337,7 +337,7 @@ export default function App() {
                  className="absolute"
                  style={LAYOUT_CONFIG.GAME.BTN_MUSIC}
                >
-                 播放聲音
+                 
                </RedButton>
                
                {/* 按鈕 A: 送出 */}
@@ -346,7 +346,7 @@ export default function App() {
                  className="absolute"
                  style={LAYOUT_CONFIG.GAME.BTN_SUBMIT}
                >
-                 送出
+                 
                </RedButton>
 
              </Layer>
@@ -369,7 +369,7 @@ export default function App() {
             className="absolute"
             style={LAYOUT_CONFIG.NAME.BUTTON}
           >
-            確認
+            
           </RedButton>
         </Layer>
 
@@ -393,7 +393,7 @@ export default function App() {
              className="absolute"
              style={LAYOUT_CONFIG.HOME.BUTTON}
            >
-             HOME
+             
            </RedButton>
         </Layer>
 
