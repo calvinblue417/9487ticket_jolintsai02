@@ -381,7 +381,7 @@ export default function App() {
              className="absolute"
              style={LAYOUT_CONFIG.START.BUTTON}
            >
-             START
+             
            </RedButton>
         </Layer>
 
