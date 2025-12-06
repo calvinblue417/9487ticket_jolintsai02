@@ -53,8 +53,8 @@ export const GAME_LEVELS: LevelData[] = [
     characterName: "",
     question: "",
     hashedAnswers: [
-      "b01024d0f433363feed6be11c76ec47bcc90babf85631d4f21d46cfce4b23c5a",
-      "7c5a2f95e8345a34d9fab0d0a620abdbfcc62a86863c329184a93da53b4ebb7a" 
+      "e8475a816c88de0851f100a1220be8dace3cc182437bf3ae4423e54e95efc544",
+      "56f4960b17d679a3903390fe15e54299db3f7988b9267bff296cccfea4f6e935" 
     ],
     imageUrl: `${GITHUB_BASE_URL}/question_3.png`,
     musicUrl: `${GITHUB_BASE_URL}/music_3.m4a`,
@@ -64,8 +64,8 @@ export const GAME_LEVELS: LevelData[] = [
     characterName: "",
     question: "",
     hashedAnswers: [
-      "fdf53ddc2eba13678ea28f1b70b6dd7b413e3a5cae6a5bd8df0cf6b5704664c1",
-      "91942d0fa3168cb5f05c324fd010bce01ff2bfba2895d9d287a33d9853cbcc95" 
+      "b01024d0f433363feed6be11c76ec47bcc90babf85631d4f21d46cfce4b23c5a",
+      "7c5a2f95e8345a34d9fab0d0a620abdbfcc62a86863c329184a93da53b4ebb7a" 
     ],
     imageUrl: `${GITHUB_BASE_URL}/question_4.png`,
     musicUrl: `${GITHUB_BASE_URL}/music_4.m4a`,
