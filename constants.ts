@@ -108,8 +108,8 @@ export const LAYOUT_CONFIG = {
   },
   NAME: {
     // 名字輸入頁
-    INPUT: { bottom: '23%', left: '20%', width: '60%', height: '6%' },
-    BUTTON: { bottom: '11%', left: '42%', width: '15%', height: '6%' },
+    INPUT: { bottom: '22%', left: '20%', width: '60%', height: '6%' },
+    BUTTON: { bottom: '13%', left: '42%', width: '15%', height: '6%' },
   },
   GAME: {
     // 遊戲問答頁 (適用於所有關卡)
