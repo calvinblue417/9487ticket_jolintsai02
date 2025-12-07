@@ -244,7 +244,7 @@ export default function App() {
       
       {/* 倒數計時遮罩 (Overlay) - 黑色半透明 (90%) */}
       {showOverlay && (
-        <div className="fixed inset-0 z-[100] bg-green/70 flex items-center justify-center">
+        <div className="fixed inset-0 z-[100] bg-black/70 flex items-center justify-center">
           <h1 className="text-white text-4xl md:text-6xl font-bold font-mono tracking-widest">
             {countdownText}
           </h1>
