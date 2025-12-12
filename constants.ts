@@ -54,7 +54,7 @@ export const GAME_LEVELS: LevelData[] = [
     question: "",
     hashedAnswers: [
       "e8475a816c88de0851f100a1220be8dace3cc182437bf3ae4423e54e95efc544",
-      "a9c26b5621e0aad03eb9da086085e34ca24b81e4b26cd0454e9cfee0f5ebeb18" 
+      "56f4960b17d679a3903390fe15e54299db3f7988b9267bff296cccfea4f6e935" 
     ],
     imageUrl: `${GITHUB_BASE_URL}/question_3.png`,
     musicUrl: `${GITHUB_BASE_URL}/music_3.m4a`,
